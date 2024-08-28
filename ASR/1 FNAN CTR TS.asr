@@ -1,5 +1,5 @@
 // ##################################################################
-// VATSSA | FIR FQBE | ASR | 1 FNAN CTR TS
+//                 VATSSA | FIR FQBE | ASR | 1 FNAN CTR TS
 // ##################################################################
 
 // Version v0.1
@@ -9,7 +9,7 @@
 // v0.1 | Added Header
 
 // ##################################################################
-// SETTINGS
+//                 SETTINGS
 // ##################################################################
 
 DisplayTypeName:Standard ES radar screen
@@ -55,7 +55,7 @@ SHOWC:1
 SHOWSB:0
 BELOW:0
 ABOVE:0
-LEADER:-3
+LEADER:-20
 SHOWLEADER:1
 TURNLEADER:0
 HISTORY_DOTS:5
