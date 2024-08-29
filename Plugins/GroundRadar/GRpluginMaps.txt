@@ -278,6 +278,29 @@ SCTDATA:STAR\FHSH RNP19 NEXOP
 //                 #8 GROUND LAYOUTS v0.1
 // ##################################################################
 
+// ################################################################## 
+//                 #8A AD LABELS v0.1
+// ##################################################################
+
+// AIRPORT SETUP
+MAP:TAXIWAY LABELS
+FOLDER:AD LABELS
+AIRPORT:FNLU
+ACTIVE:1
+
+// TAXIWAYS 
+COLOR:WHITE
+STYLE:Solid:2
+FONTSIZE:-:1
+TEXTALIGN:L
+TEXT:S8.50.52.212:E013.14.25.361:A1:0:0
+
+// APRONS
+
+// BUILDINGS
+
+// PARKING POSITONS FONTSIZE:*:1 ZOOM:1500 COLOR:BLACK 
+
 // ##################################################################
 //                 #9 LANDMARK v0.1
 // ##################################################################
