@@ -5,11 +5,11 @@
 *.rwy
 
 # Folder Exclusions
-*FNAN/
-*Alias/
-*NavData/
-*ICAO/
-*Sounds/
+FNAN/*
+Alias/*
+NavData/*
+ICAO/*
+Sounds/*
 
 # File Exclusions
 *aeronav_copyright.txt
