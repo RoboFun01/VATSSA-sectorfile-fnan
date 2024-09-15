@@ -1,0 +1,7 @@
+==== Angola Airspace ====
+
+^ ICAO  ^ Name   ^ SSA Code  ^ Type    ^ Remarks ^
+| FNAN  | Luanda | [[FNAN]]  | -       | - |
+
+
+{{page>fn-footer#Angola}}
