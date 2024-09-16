@@ -1,4 +1,4 @@
 ===== St Helena =====
 ----
 
-//This page is a subsection of the [[St Helena]] country page.//
+//This page is a subsection of the [[country:st-helena:home|St Helena]] country page.//

@@ -1,7 +1,7 @@
 ==== St Helena Airports ====
 
 ^ ICAO      ^ Name          ^ City          ^ Status        ^ Remarks ^
-| [[FHSH]]  | St Helena | City          | In Development             | - |
+| [[airport:fhsh:home|FHSH]]  | St Helena | City          | In Development             | - |
 
 
 

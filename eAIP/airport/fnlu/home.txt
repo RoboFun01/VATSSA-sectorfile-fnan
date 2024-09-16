@@ -1,5 +1,5 @@
 ===== FNLU | 4th of February | Luanda, Angola =====
 
-{{tabembed>fnlu-about|About,fnlu-delivery|Delivery,fnlu-ground|Ground,fnlu-tower|Tower,fnlu-departure|Departure,fnlu-approach|Approach,fnlu-coordination|Coordination,fnlu-charts|Charts,fnlu-scenery|Scenery,fnlu-briefing|Briefing}}
+{{tabembed>about|About,delivery|Delivery,ground|Ground,tower|Tower,departure|Departure,approach|Approach,coordination|Coordination,charts|Charts,scenery|Scenery,briefing|Briefing}}
 
 {{page>fn-footer#FNLU}}

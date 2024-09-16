@@ -1,17 +1,17 @@
 ==== Angola ====
 ----
 
-//This page is a subsection of the [[Angola]] country page.//
+//This page is a subsection of the [[country:angola:home|Angola]] country page.//
 
 ==== FNAN ====
 
 ----
 
-[[FNAN]] Luanda FIR | v0.1
+[[airspace:fnan:home|FNAN]] Luanda FIR | v0.1
 
 
 ==== FNLU ====
 
 ----
 
-[[FNLU]] 4th of February | v0.1
+[[airport:fnlu:home|FNLU]] 4th of February | v0.1
