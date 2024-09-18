@@ -1,0 +1,47 @@
+===== FNLU Luanda Approach =====
+
+==== Arrivals Procedures ====
+
+  * FNLU does not have any published arrivals. Pilots should be advised to level at 3000 ft for the ILS to runway 23 (preferred landing runway).
+
+
+=== Approach Procedures ===
+
+^ Rwy   ^ Approach      ^ Frequency     ^ Course ^ GP Angle ^ IAF       ^ Platform ^ Remarks ^
+| 05    | VOR DME       | 112.70 VNA    | 053º   | 2.52º    | 8 DME VNA | 1700 ft  | - | 
+| 23    | ILS DME       | 110.30 ILD    | 233º   | 3.00º    | MANGO     | 3000 ft  | - |
+| :::   | RNAV (GNSS)   | -             | 232º   | 2.86º    | G048L     | 1800 ft  | - |
+| :::   | VOR DME       | 112.70 VNA    | 233º   | 2.29º    | MANGO     | 3000 ft  | - |
+| :::   | NDB           | 258 LU        | 233º   | 2.52º    | LU        | 1700 ft  | - |
+
+
+==== Holds ====
+
+^ Name  ^ STAR  ^ Altitude ^ Speed (IAS) ^ Inbound CRS ^ Turn  ^ Leg Time ^ Remarks ^
+| VNA   | -     | FL040    | 230 KT      | 233º        | Left  | 1 min    | - |
+| LU    | -     | A030     | 230 KT      | 233º        | Right | 1 min    | - |
+
+==== Missed Approach Procedures ====
+
+^ Rwy   ^ Approach      ^ Missed Approach Procedure ^ Hold ^ Remarks ^
+| 05    | VOR DME       | Climb on Rwy Heading to 2500 ft, then climbing turn LEFT to VOR VNA to 3000 ft and hold | VNA  | - | 
+| 23    | ILS DME       | Climb on R233 VNA to D10 VNA, then turn RIGHT to intercept 12 DME Arc VNA, climbing to 3000 ft. Continue to MANGO and hold | MANGO | - |
+| :::   | RNAV (GNSS)   | Climb direct G221G, then proceed direct to G241V at 3000 ft and hold | G241V | - |
+| :::   | VOR DME       | Climb on R233 VNA to D10 VNA, then turn RIGHT to intercept 12 DME Arc VNA, climbing to 3000 ft. Continue to MANGO and hold | MANGO | - |
+| :::   | NDB           | Climb on Rwy Heading ot 2500 ft, then climbing turn RIGHT to NDB LU to 3000 ft and hold | LU | - |
+
+
+==== MSA and MRVA ====
+
+^ Radio Aid ^ Min Distance ^ Max Distance ^ Radial From ^ Radial To ^ MSA ^ Remarks ^
+| VNA       | 0 nm         | 25 nm        | 001º        | 179º      | 2500 ft | - |
+| :::       | :::          | :::          | 180º        | 360º      | 2500 ft | - |
+
+
+==== Diversions ====
+
+^ ICAO ^ Name                                       ^ Distance  ^ Longest Rwy ^ Remarks ^ 
+
+
+
+{{page>fn-footer#FNLU}}

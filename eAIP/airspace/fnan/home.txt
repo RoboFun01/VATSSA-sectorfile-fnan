@@ -1,0 +1,6 @@
+===== FNAN | Luanda =====
+
+{{tabembed>about|About,classification|Classification,sectors|Sectors,initialclimb|Initial Climb,rules|Rules,transitions|TA/TL,oceanic:aorra|AORRA,loa|Agreements,alias:std|Alias}}
+
+
+{{page>fn-footer#FNAN}}
