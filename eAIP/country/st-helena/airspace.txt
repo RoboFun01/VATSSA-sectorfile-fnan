@@ -1,0 +1,8 @@
+==== Saint Helena Airspace ====
+
+^ ICAO  ^ Name              ^ SSA Code  ^ Type    ^ Remarks ^
+| FNAN  | Luanda | [[airspace:fnan:home|FNAN]] | -       | - |
+
+
+
+{{page>fh-footer#Saint Helena}}

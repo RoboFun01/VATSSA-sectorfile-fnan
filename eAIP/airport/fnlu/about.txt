@@ -1,0 +1,55 @@
+===== FNLU Luanda Information =====
+
+**Quatro de Fevereiro International Airport** is the main international airport of [[country:angola:home|Angola]]. It is located in the southern part of the capital Luanda, situated in the Luanda Province. Quatro de Fevereiro means 4th of February, which is an important national holiday in Angola, marking the start of the armed struggle against the Portuguese colonial regime on 4 February 1961. In 2009, about 1.8 million passengers were counted.
+
+More information available at [[https://en.wikipedia.org/wiki/Quatro_de_Fevereiro_Airport|Wikipedia]].
+
+
+==== Aerodrome Data ====
+
+| ICAO                  | FNLU |
+| IATA                  | LAD |
+| Elevation             | 238 ft|
+| Transition Altitude   | 3000 ft |
+| Transition Level      | FL45 |
+| Mag Variation         | 07º NW |
+| Coordinate | [[https://geohack.toolforge.org/geohack.php?pagename=Quatro_de_Fevereiro_Airport&params=08_51_30_S_13_13_52_E_region:AO_type:airport|08°51′30″S 13°13′52″E]] |
+| Site | [[https://www.luandaairport.com/]] |
+
+
+==== Runways ====
+
+^ Runway ^ Heading ^ TORA (m) ^ TODA (m) ^ ASDA (m) ^ LDA (m) ^ Remarks ^
+| 05     | 053º    | 3700     | 4000     | 3760     | 3700    | - |
+| 07     | 074º    | 2489     | 3054     | 2489     | 2500    | - |
+| 23     | 233º    | 3700     | 3940     | 3700     | 3700    | - |
+| 25     | 254º    | 2489     | 2639     | 2549     | 2500    | - |
+
+
+==== Aprons ====
+^ Apron     ^ Code ^ Stands  ^ Entry / Exit  ^ Remarks ^
+| Sector A  | -   | A1 - A6  | Twy B         | - |
+| Sector B  | -   | B1 - B8  | Twy B         | - |
+| Sector C  | -   | C1 - C6  | Twy C         | - |
+| Cargo     | -   | C7 - C11 | Twy C         | - |
+| Military  | -   | -        | Twy C         | - |
+
+==== Positions & Frequencies ====
+
+^ Position  ^ Callsign        ^ Frequency ^ Remarks ^
+| FNLU_GND  | Luanda Ground   | 121.900   | - |
+| FNLU_TWR  | Luanda Tower    | 118.100   | - |
+| FNLU_APP  | Luanda Approach | 119.100   | - |
+| FNAN_CTR  | Luanda Control  | 118.500   | - |
+
+==== Airspace ====
+
+^ Airspace          ^ Class ^ Owner     ^ Limits        ^ Remarks ^
+| Luanda CTR        | C     | FNLU_TWR  | GND - A030    | - |
+| Luanda CTR        | E     | FNLU_APP  | A030 - FL145  | - |
+| Luanda CTR        | A     | FNLU_APP  | FL145 - FL165  | - |
+| Luanda TMA        | A     | FNAN_CTR  | FL165 - UNL    | - |
+| Luanda FIR/UIR    | A     | FNAN_CTR  | FL245 - UNL    | - |
+
+
+{{page>fn-footer#FNLU}}

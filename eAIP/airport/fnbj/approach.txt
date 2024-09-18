@@ -1,0 +1,48 @@
+===== FNBJ Approach =====
+
+==== Aproach Position Best Practices ====
+
+ * None at this time.
+
+==== Arrivals Procedures ====
+
+  * Coming soon.
+
+
+=== Approach Procedures ===
+
+^ Rwy   ^ Approach      ^ Frequency     ^ Course ^ GP Angle ^ IAF       ^ Platform ^ Remarks ^
+| 06L   | -             | -             | -      | -    | - | -  | - | 
+| 06R   | -             | -             | -      | -    | -     | -  | - |
+| 24L   | -             | -             | -      | -    | -     | -  | - |
+| 24R   | -             | -             | -      | -    | -     | -  | - |
+
+
+==== Holds ====
+
+^ Name  ^ STAR  ^ Altitude ^ Speed (IAS) ^ Inbound CRS ^ Turn  ^ Leg Time ^ Remarks ^
+| VNA   | -     | FL040    | 230 KT      | 233º        | Left  | 1 min    | - |
+| LU    | -     | A030     | 230 KT      | 233º        | Right | 1 min    | - |
+
+==== Missed Approach Procedures ====
+
+^ Rwy   ^ Approach      ^ Missed Approach Procedure ^ Hold ^ Remarks ^
+| 06L    | -       | - | -  | Runway is not active at this time | 
+| 06R    | -       | - | -  | - | 
+| 24L    | -       | - | -  | - | 
+| 24R    | -       | - | -  | Runway is not active at this time | 
+
+==== MSA and MRVA ====
+
+^ Radio Aid ^ Min Distance ^ Max Distance ^ Radial From ^ Radial To ^ MSA ^ Remarks ^
+| VNA       | 0 nm         | 25 nm        | 001º        | 179º      | 2500 ft | - |
+| :::       | :::          | :::          | 180º        | 360º      | 2500 ft | - |
+
+
+==== Diversions ====
+
+^ ICAO ^ Name ^ Distance ^ Longest Rwy ^ Remarks ^ 
+| - | - | - nm | - m | - |
+
+
+{{page>fn-footer#FNBJ}}

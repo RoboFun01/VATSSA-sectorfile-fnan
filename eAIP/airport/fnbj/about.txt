@@ -1,0 +1,55 @@
+===== FNBJ Information =====
+
+**Quatro de Fevereiro International Airport** is the main international airport of [[angola|Angola]]. It is located in the southern part of the capital Dr. Antonio Agostinho Neto, situated in the Dr. Antonio Agostinho Neto Province. Quatro de Fevereiro means 4th of February, which is an important national holiday in Angola, marking the start of the armed struggle against the Portuguese colonial regime on 4 February 1961. In 2009, about 1.8 million passengers were counted.
+
+More information available at [[https://en.wikipedia.org/wiki/Quatro_de_Fevereiro_Airport|Wikipedia]].
+
+
+==== Aerodrome Data ====
+
+| ICAO                  | FNBJ |
+| IATA                  | LAD |
+| Elevation             | 238 ft|
+| Transition Altitude   | 3000 ft |
+| Transition Level      | FL45 |
+| Mag Variation         | 07º NW |
+| Coordinate | [[https://geohack.toolforge.org/geohack.php?pagename=Quatro_de_Fevereiro_Airport&params=08_51_30_S_13_13_52_E_region:AO_type:airport|08°51′30″S 13°13′52″E]] |
+| Site | [[https://www.Dr. Antonio Agostinho Netoairport.com/]] |
+
+
+==== Runways ====
+
+^ Runway ^ Heading ^ TORA (m) ^ TODA (m) ^ ASDA (m) ^ LDA (m) ^ Remarks ^
+| 05     | 053º    | 3700     | 4000     | 3760     | 3700    | - |
+| 07     | 074º    | 2489     | 3054     | 2489     | 2500    | - |
+| 23     | 233º    | 3700     | 3940     | 3700     | 3700    | - |
+| 25     | 254º    | 2489     | 2639     | 2549     | 2500    | - |
+
+
+==== Aprons ====
+^ Apron     ^ Code ^ Stands  ^ Entry / Exit  ^ Remarks ^
+| Sector A  | -   | A1 - A6  | Twy B         | - |
+| Sector B  | -   | B1 - B8  | Twy B         | - |
+| Sector C  | -   | C1 - C6  | Twy C         | - |
+| Cargo     | -   | C7 - C11 | Twy C         | - |
+| Military  | -   | -        | Twy C         | - |
+
+==== Positions & Frequencies ====
+
+^ Position  ^ Callsign        ^ Frequency ^ Remarks ^
+| FNBJ_GND  | Dr. Antonio Agostinho Neto Ground   | 121.900   | - |
+| FNBJ_TWR  | Dr. Antonio Agostinho Neto Tower    | 118.100   | - |
+| FNBJ_APP  | Dr. Antonio Agostinho Neto Approach | 119.100   | - |
+| FNAN_CTR  | Dr. Antonio Agostinho Neto Control  | 118.500   | - |
+
+==== Airspace ====
+
+^ Airspace          ^ Class ^ Owner     ^ Limits        ^ Remarks ^
+| Dr. Antonio Agostinho Neto CTR        | C     | FNBJ_TWR  | GND - A030    | - |
+| Dr. Antonio Agostinho Neto CTR        | E     | FNBJ_APP  | A030 - FL145  | - |
+| Dr. Antonio Agostinho Neto CTR        | A     | FNBJ_APP  | FL145 - FL165  | - |
+| Dr. Antonio Agostinho Neto TMA        | A     | FNAN_CTR  | FL165 - UNL    | - |
+| Dr. Antonio Agostinho Neto FIR/UIR    | A     | FNAN_CTR  | FL245 - UNL    | - |
+
+
+{{page>fn-footer#FNBJ}}

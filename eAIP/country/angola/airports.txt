@@ -1,0 +1,8 @@
+==== Angola Airports ====
+
+^ ICAO      ^ Name                      ^ City              ^ Status        ^ Remarks ^
+| [[airport:fnlu:home|FNLU]]  | 4th of February           | Luanda            | -             | - |
+
+
+
+{{page>fn-footer#Angola}}

@@ -1,0 +1,13 @@
+===== FNBJ Departure =====
+
+  * FNBJ doesn't have a dedicated Departure Position, with Dr. Antonio Agostinho Neto Approach (FNBJ APP) assuming the role of Departure.
+
+
+==== Departure Procedures ====
+
+  * After departure, maintain aircraft on runway heading. You may issue further climb instructions (usually FL150).
+
+
+==== Noise Abatement Procedures ====
+
+{{page>fn-footer#FNBJ}}

@@ -1,0 +1,13 @@
+===== FNLU Luanda Departure =====
+
+  * FNLU doesn't have a dedicated Departure Position, with Luanda Approach (FNLU APP) assuming the role of Departure.
+
+
+==== Departure Procedures ====
+
+  * After departure, maintain aircraft on runway heading. You may issue further climb instructions (usually FL150).
+
+
+==== Noise Abatement Procedures ====
+
+{{page>fn-footer#FNLU}}

@@ -1,0 +1,13 @@
+===== FNAN Luanda Flight Information Region =====
+
+  * 
+
+==== Airport Coverage ====
+
+Luanda FIR covers the following airports:
+
+=== Angola ===
+
+{{page>country:angola:airports#Angola Airports}}
+
+{{page>fn-footer#FNAN}}
