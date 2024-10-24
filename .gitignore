@@ -13,3 +13,5 @@ Sounds/*
 
 # File Exclusions
 *aeronav_copyright.txt
+ASR/euroscope_sector_providers.txt
+ASR/SectorFileProviderDescriptor.txt
